@@ -1,3 +1,4 @@
+// 模拟单数据源秒级（每秒一次）抓取的 Kafka 生产者
 package com.around.producer;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;
