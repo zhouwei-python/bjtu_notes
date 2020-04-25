@@ -1,3 +1,4 @@
+// 模拟多数据源秒级抓取的 Kafka 生产者
 package com.around.producer;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
