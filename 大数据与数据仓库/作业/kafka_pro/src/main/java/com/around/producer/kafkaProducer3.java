@@ -1,3 +1,4 @@
+// 模拟小时级（每小时一次）数据抓取的 Kakfa 生产者
 package com.around.producer;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
